@@ -1,0 +1,51 @@
+[{
+        "id": 1,
+        "name": "ava",
+        "masterAreaId": 1
+    },
+    {
+        "id": 2,
+        "name": "bella",
+        "masterAreaId": 1
+    },
+    {
+        "id": 3,
+        "name": "carol",
+        "masterAreaId": 1
+    },
+    {
+        "id": 4,
+        "name": "diana",
+        "masterAreaId": 1
+    },
+    {
+        "id": 5,
+        "name": "elieen",
+        "masterAreaId": 1
+    },
+    {
+        "id": 6,
+        "name": "hikari",
+        "masterAreaId": 2
+    },
+    {
+        "id": 7,
+        "name": "tairitsu",
+        "masterAreaId": 2
+    },
+    {
+        "id": 8,
+        "name": "kou",
+        "masterAreaId": 2
+    },
+    {
+        "id": 9,
+        "name": "luna",
+        "masterAreaId": 2
+    },
+    {
+        "id": 10,
+        "name": "lagrange",
+        "masterAreaId": 2
+    }
+]
